@@ -1,6 +1,6 @@
 {
   "name": "@pipcook/plugins-tensorflow-bert-ner-model-evaluate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bert ner model evaluate model based on tf2",
   "main": "__init__.py",
   "scripts": {
@@ -19,7 +19,7 @@
     "access": "public"
   },
   "pipcook": {
-    "category": "modelTrain",
+    "category": "modelEvaluate",
     "datatype": "text",
     "runtime": "python"
   },
